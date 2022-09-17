@@ -1,4 +1,4 @@
-﻿// какое большее какое меньшее
+﻿// какое большее какое меньшее задача 2
 Console.WriteLine("Введите число А");
 int num_A = Convert.ToInt32(Console.ReadLine());
 
