@@ -1,4 +1,4 @@
-﻿// программа находит чётные числа20
+﻿// программа находит чётные числа , задача 8
 Console.WriteLine("Введите число:");
 int num = Convert.ToInt32(Console.ReadLine());
 int count = 2;
